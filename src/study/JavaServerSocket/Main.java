@@ -162,7 +162,6 @@ class thread extends Thread {
 		} catch (Exception e) {
 			System.out.println("Error: " + e.getMessage());
 		}
-
 	}
 }
 
